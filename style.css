@@ -1,7 +1,13 @@
-#text1
-{
-    
-width: 150px;
-height: 50px;
+#text1 {
+    width: 150px;
+    height: 50px;
+    margin-left: 17px;
+}
 
+#name {
+    margin-left: 30px;
+}
+
+#name2 {
+    margin-left: 65px;
 }
